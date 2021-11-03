@@ -1,0 +1,15 @@
+body{
+	background-color: #374151;
+}
+
+.ksth-nav-bg {
+	background-color: #111827;
+}
+
+.ksth-nav-bg li {
+	color: #fff;
+}
+
+.ksth-bg-header {
+	background-image: url(header-banner.png);
+} 
